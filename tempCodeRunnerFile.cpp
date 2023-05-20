@@ -1,0 +1,1 @@
+time2=time*count2+d;
